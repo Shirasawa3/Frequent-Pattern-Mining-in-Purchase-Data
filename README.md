@@ -1,4 +1,6 @@
 # 購買データの頻出パターンマイニング
+リアルタイムデータを処理する手法を学習する目的で作成。
+発表およびデモを行った際の資料 →　https://o365tsukuba-my.sharepoint.com/:p:/g/personal/s2211288_u_tsukuba_ac_jp/EfheJIwBdO5AsHKpfckU4yMBg9023jU7Fl4Rz7R-1Sc7eg?e=bzpAAR
 
 ## できること
 - リアルタイムで購買データを受け取り、よく一緒に買われている商品の組み合わせを割り出しブラウザ上に出力する
